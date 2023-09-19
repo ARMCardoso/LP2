@@ -1,0 +1,10 @@
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\bin\Debug\ATIVIDADE3.exe.config
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\bin\Debug\ATIVIDADE3.exe
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\bin\Debug\ATIVIDADE3.pdb
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\obj\Debug\ATIVIDADE3.csprojAssemblyReference.cache
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\obj\Debug\ATIVIDADE3.Form1.resources
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\obj\Debug\ATIVIDADE3.Properties.Resources.resources
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\obj\Debug\ATIVIDADE3.csproj.GenerateResource.cache
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\obj\Debug\ATIVIDADE3.csproj.CoreCompileInputs.cache
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\obj\Debug\ATIVIDADE3.exe
+C:\Users\0030482311022\Downloads\Projetos\ATIVIDADE3\obj\Debug\ATIVIDADE3.pdb
